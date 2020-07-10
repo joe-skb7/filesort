@@ -1,0 +1,7 @@
+*.o
+*.d
+filesort
+cscope.*
+tags
+test/test_*.txt
+doc/*
